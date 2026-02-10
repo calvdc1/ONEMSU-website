@@ -1,0 +1,11 @@
+{
+  "botName": "Registrar Bot",
+  "prefix": "!",
+  "ownerId": "987654321098765432",
+  "activityType": "Playing",
+  "statusText": "Serving ONEMSU",
+  "onlineStatus": "Online",
+  "debugMode": false,
+  "developerMode": false,
+  "syncCommands": true
+}
